@@ -6,7 +6,7 @@ if(a>20){
 }
 else
 {
-System.out.println("it false");
+System.out.println("it is false and completly");
 }
 
 
